@@ -15,7 +15,7 @@
                 <div class="widget">
                     <h3 style="text-align:center; color:#252424">Bİze Ulaşın</h3>
                     <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
-                        Aşık Veysel Bulvarı Erciyes Teknopark 5. Bina Ofis ? Melikgazi Kayseri
+                        Aşık Veysel Bulvarı Erciyes Teknopark 5. Bina Zemin Kat No:36 <br/>Melikgazi/Kayseri
                     </p>
                     <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                         Telefon: +905452004650
