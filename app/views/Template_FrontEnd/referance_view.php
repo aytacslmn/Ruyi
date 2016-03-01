@@ -4,7 +4,7 @@
         <div class="row" >
             <div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:20px">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item25.png" alt="">
+                    <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item25.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Bilişim,Sanayi ve Teknoloji Bakanlığı</a> </h3>
@@ -15,7 +15,7 @@
             </div>   
             <div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:20px">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item21.png" alt="">
+                    <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item21.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Staj Evi</a></h3>
@@ -26,7 +26,7 @@
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:20px">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item20.png" alt="">
+                    <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item20.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Zeytinpark</a></h3>
@@ -37,7 +37,7 @@
             </div> 
             <div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:20px">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item26.png" alt="">
+                    <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item26.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Tabanvay Oto Yıkama</a></h3>
@@ -55,7 +55,7 @@
             <div class="col-md-6 col-sm-12">
                 <div class="widget">
                     <h3 style="text-align:center; color:#252424">Hakkımızda</h3>
-                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                         Kayseri de 2015 yılında kurulduk.Kısa sürede büyük projelerde atılım gerçekleştirmiş bir firma 
                         olmayı başardık.Genç ve diri bir ekip olarak tek çatı altında toplanma'nın mutluluğunu yaşıyoruz.
                         Bize ait çözüm ve farkındalığımız ile henüz 1 yıl içerisinde
@@ -65,13 +65,13 @@
             <div class="col-md-6 col-sm-12">
                 <div class="widget">
                     <h3 style="text-align:center; color:#252424">Bİze Ulaşın</h3>
-                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                         Aşık Veysel Bulvarı Erciyes Teknopark 5. Bina Ofis ? Melikgazi Kayseri
                     </p>
-                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                         Telefon: ?????????
                     </p>
-                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                         E-posta: <span style="color:#009933">info@ruyidem.com</span></p>
                 </div>    
             </div><!--/.col-md-3-->

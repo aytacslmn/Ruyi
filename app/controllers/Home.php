@@ -20,11 +20,25 @@ class Home extends Controller {
         $this->load->view("Template_FrontEnd/about");
         $this->load->view("Template_FrontEnd/footer");
     }
-
+    public function portfolio() {
+        $this->load->view("Template_FrontEnd/header");
+        $this->load->view("Template_FrontEnd/portfolio");
+        $this->load->view("Template_FrontEnd/footer");
+    }
+    public function referance() {
+        $this->load->view("Template_FrontEnd/header");
+        $this->load->view("Template_FrontEnd/referance");
+        $this->load->view("Template_FrontEnd/footer");
+    }
+     public function blog() {
+        $this->load->view("Template_FrontEnd/header");
+        $this->load->view("Template_FrontEnd/blog");
+        $this->load->view("Template_FrontEnd/footer");
+    }
     public function contact() {
-        $this->load->view("Template_BackEnd/header");
-        $this->load->view("Template_BackEnd/contact");
-        $this->load->view("Template_BackEnd/footer");
+        $this->load->view("Template_FrontEnd/header");
+        $this->load->view("Template_FrontEnd/contact");
+        $this->load->view("Template_FrontEnd/footer");
     }
 
 }

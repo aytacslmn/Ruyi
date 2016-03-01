@@ -6,9 +6,9 @@
             </div>
             <div class="col-sm-6">
                 <ul class="pull-right">
-                    <li><a href="#">Anasayfa</a></li>
-                    <li><a href="#">Hakkımızda</a></li>
-                    <li><a href="#">İletişim</a></li>
+                    <li><a href="<?php echo SITE_URL; ?>">Anasayfa</a></li>
+                    <li><a href="<?php echo SITE_URL;?>/Home/About">Hakkımızda</a></li>
+                    <li><a href="<?php echo SITE_URL;?>/Home/Contact">İletişim</a></li>
                 </ul>
             </div>
         </div>

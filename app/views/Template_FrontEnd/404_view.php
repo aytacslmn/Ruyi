@@ -3,7 +3,6 @@
     <p>The Page you are looking for doesn't exist or an other error occurred.</p>
     <a class="btn btn-primary" href="<?php echo SITE_URL; ?>">GO BACK TO THE HOMEPAGE</a>
 </section><!--/#error-->
-
 <section id="bottom">
     <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
         <div class="row">
@@ -21,7 +20,6 @@
                     </ul>
                 </div>    
             </div><!--/.col-md-3-->
-
             <div class="col-md-3 col-sm-6">
                 <div class="widget">
                     <h3>Support</h3>
@@ -36,7 +34,6 @@
                     </ul>
                 </div>    
             </div><!--/.col-md-3-->
-
             <div class="col-md-3 col-sm-6">
                 <div class="widget">
                     <h3>Developers</h3>
@@ -51,7 +48,6 @@
                     </ul>
                 </div>    
             </div><!--/.col-md-3-->
-
             <div class="col-md-3 col-sm-6">
                 <div class="widget">
                     <h3>Our Partners</h3>

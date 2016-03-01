@@ -1,4 +1,3 @@
-
 <section id="blog" class="container">
     <div class="blog">
         <div class="row" style="margin-top:-50px">
@@ -20,7 +19,7 @@
                                 <div class="widget">
                                     <h3 style="text-align:center; color:#252424">Hakkımızda</h3>
 
-                                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                                         Kayseri de 2015 yılında kurulduk.Kısa sürede büyük projelerde atılım gerçekleştirmiş bir firma 
                                         olmayı başardık.Genç ve diri bir ekip olarak tek çatı altında toplanma'nın mutluluğunu yaşıyoruz.
                                         Bize ait çözüm ve farkındalığımız ile henüz 1 yıl içerisinde
@@ -30,13 +29,13 @@
                             <div class="col-md-6 col-sm-12">
                                 <div class="widget">
                                     <h3 style="text-align:center; color:#252424">Bİze Ulaşın</h3>
-                                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                                         Aşık Veysel Bulvarı Erciyes Teknopark 5. Bina Ofis ? Melikgazi Kayseri
                                     </p>
-                                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                                         Telefon: ?????????
                                     </p>
-                                    <p style="text-indent:25px; font-size:16px; font-family:arial; color:#575555">
+                                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
                                         E-posta: <span style="color:#009933">info@ruyidem.com</span></p>
                                 </div>    
                             </div><!--/.col-md-3-->
