@@ -1,3 +1,6 @@
+<script>
+    var index = 2;
+</script>
 <section id="portfolio">
     <div class="container">
         <div class="center" style="margin-top:-25px">
@@ -164,32 +167,3 @@
         </div>
     </div>
 </section><!--/#portfolio-item-->
-<section id="bottom">
-    <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-        <div class="row">
-            <div class="col-md-6 col-sm-12">
-                <div class="widget">
-                    <h3 style="text-align:center; color:#252424">Hakkımızda</h3>
-                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
-                        Kayseri de 2015 yılında kurulduk.Kısa sürede büyük projelerde atılım gerçekleştirmiş bir firma 
-                        olmayı başardık.Genç ve diri bir ekip olarak tek çatı altında toplanma'nın mutluluğunu yaşıyoruz.
-                        Bize ait çözüm ve farkındalığımız ile henüz 1 yıl içerisinde
-                        sektör de kendimizi ispatlayıp ve yer edinmeyi başardık.</p>
-                </div>    
-            </div><!--/.col-md-3-->
-            <div class="col-md-6 col-sm-12">
-                <div class="widget">
-                    <h3 style="text-align:center; color:#252424">Bİze Ulaşın</h3>
-                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
-                        Aşık Veysel Bulvarı Erciyes Teknopark 5. Bina Ofis ? Melikgazi Kayseri
-                    </p>
-                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
-                        Telefon: ?????????
-                    </p>
-                    <p style="text-align:center; font-size:16px; font-family:arial; color:#575555">
-                        E-posta: <a href="">info@ruyidem.com</a></p>
-                </div>    
-            </div><!--/.col-md-3-->
-        </div>
-    </div>
-</section><!--/#bottom-->

@@ -1,3 +1,6 @@
+<script>
+    var index = 3;
+</script>
 <section id="recent-works" class="shortcode-item">
     <div class="container">
         <h2 style="text-align:center; color:#605F5F; font-size:27px; margin-top:-25px">REFERANSLAR</h2>

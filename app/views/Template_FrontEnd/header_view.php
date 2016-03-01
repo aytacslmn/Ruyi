@@ -13,11 +13,14 @@
                 <link href="<?php echo SITE_FRONT_ASSETSCSS; ?>/prettyPhoto.css" rel="stylesheet">
                     <link href="<?php echo SITE_FRONT_ASSETSCSS; ?>/main.css" rel="stylesheet">
                         <link href="<?php echo SITE_FRONT_ASSETSCSS; ?>/responsive.css" rel="stylesheet">
+                            <script>
+                                var index = 0;
+                            </script>
                             <!--[if lt IE 9]>
                             <script src="js/html5shiv.js"></script>
                             <script src="js/respond.min.js"></script>
                             <![endif]-->       
-                            <link rel="shortcut icon" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/fav.png">
+                            <link rel="shortcut icon" href="<?php echo SITE_FRONT_ASSETSIMAGES;?>/ico/fav.png">
                                 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-144-precomposed.png">
                                     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-114-precomposed.png">
                                         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-72-precomposed.png">
@@ -70,8 +73,8 @@
                                                                     <a class="navbar-brand" href="<?php echo SITE_URL; ?>" style="margin-left:-2px; margin-top:-14px"><img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/logo.png" alt="logo"></a>
                                                                 </div>
                                                                 <div class="collapse navbar-collapse navbar-right">
-                                                                    <ul class="nav navbar-nav" >
-                                                                        <li class="active" ><a href="<?php echo SITE_URL; ?>">Anasayfa</a></li>
+                                                                    <ul id="kategori" class="nav navbar-nav" >
+                                                                        <li><a href="<?php echo SITE_URL; ?>">Anasayfa</a></li>
                                                                         <li><a href="<?php echo SITE_URL; ?>/Home/About" >Hakkımızda</a></li>
                                                                         <li><a href="<?php echo SITE_URL; ?>/Home/Portfolio">Ürünler ve Çözümler</a></li>
                                                                         <li><a href="<?php echo SITE_URL; ?>/Home/Referance">Referanslar</a></li> 
