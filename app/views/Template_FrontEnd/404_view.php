@@ -1,67 +1,25 @@
-<section id="error" class="container text-center">
-    <h1>404, Page not found</h1>
-    <p>The Page you are looking for doesn't exist or an other error occurred.</p>
-    <a class="btn btn-primary" href="<?php echo SITE_URL; ?>">GO BACK TO THE HOMEPAGE</a>
-</section><!--/#error-->
-<section id="bottom">
-    <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="widget">
-                    <h3>Company</h3>
-                    <ul>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">We are hiring</a></li>
-                        <li><a href="#">Meet the team</a></li>
-                        <li><a href="#">Copyright</a></li>
-                        <li><a href="#">Terms of use</a></li>
-                        <li><a href="#">Privacy policy</a></li>
-                        <li><a href="#">Contact us</a></li>
-                    </ul>
-                </div>    
-            </div><!--/.col-md-3-->
-            <div class="col-md-3 col-sm-6">
-                <div class="widget">
-                    <h3>Support</h3>
-                    <ul>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Forum</a></li>
-                        <li><a href="#">Documentation</a></li>
-                        <li><a href="#">Refund policy</a></li>
-                        <li><a href="#">Ticket system</a></li>
-                        <li><a href="#">Billing system</a></li>
-                    </ul>
-                </div>    
-            </div><!--/.col-md-3-->
-            <div class="col-md-3 col-sm-6">
-                <div class="widget">
-                    <h3>Developers</h3>
-                    <ul>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">SEO Marketing</a></li>
-                        <li><a href="#">Theme</a></li>
-                        <li><a href="#">Development</a></li>
-                        <li><a href="#">Email Marketing</a></li>
-                        <li><a href="#">Plugin Development</a></li>
-                        <li><a href="#">Article Writing</a></li>
-                    </ul>
-                </div>    
-            </div><!--/.col-md-3-->
-            <div class="col-md-3 col-sm-6">
-                <div class="widget">
-                    <h3>Our Partners</h3>
-                    <ul>
-                        <li><a href="#">Adipisicing Elit</a></li>
-                        <li><a href="#">Eiusmod</a></li>
-                        <li><a href="#">Tempor</a></li>
-                        <li><a href="#">Veniam</a></li>
-                        <li><a href="#">Exercitation</a></li>
-                        <li><a href="#">Ullamco</a></li>
-                        <li><a href="#">Laboris</a></li>
-                    </ul>
-                </div>    
-            </div><!--/.col-md-3-->
-        </div>
-    </div>
-</section><!--/#bottom-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+    <title>Hata Sayfası</title>
+    <link rel="shortcut icon" href="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/ico/fav.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/ico/apple-touch-icon-144-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/ico/apple-touch-icon-114-precomposed.png">
+                <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/ico/apple-touch-icon-57-precomposed.png">
+                        </head><!--/head-->
+                        <body>
+                        <section id="recent-works" class="shortcode-item">
+                            <div class="container">
+
+                                <h2 style="text-align:center; color:#605F5F; font-size:27px; margin-top:140px"> <img  src="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/item28.png"></h2>
+                                <h2 style="text-align:center; color:#009933; font-size:60px; margin-top:-20px"> 404</h2>
+                                <h2 style="text-align:center; color:#009933; font-size:10px; margin-top:-50px"> <a href="http://www.ruyidem.com"><img  src="http://www.ruyidem.com/app/views/Template_FrontEnd/assets/images/item29.png"></a></h2>
+                            </div>
+                        </section><!--/#portfolio-->
+                        </body>
+                        </html>

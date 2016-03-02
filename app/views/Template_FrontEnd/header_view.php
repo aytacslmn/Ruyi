@@ -20,7 +20,7 @@
                             <script src="js/html5shiv.js"></script>
                             <script src="js/respond.min.js"></script>
                             <![endif]-->       
-                            <link rel="shortcut icon" href="<?php echo SITE_FRONT_ASSETSIMAGES;?>/ico/fav.png">
+                            <link rel="shortcut icon" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/fav.png">
                                 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-144-precomposed.png">
                                     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-114-precomposed.png">
                                         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/ico/apple-touch-icon-72-precomposed.png">
