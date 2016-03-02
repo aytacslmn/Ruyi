@@ -45,7 +45,7 @@
             <div class="col-md-4 wow fadeInDown">
                 <div class="clients-comments text-center">
                     <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/client4.png" class="img-circle" alt="">
-                        <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</h3>
+                        <h3>İşler asla zor değildir. Yeterki onları küçük parçalara bölebilelim.</h3>
                         <h4><span>Savaş Çiftçi</span></h4>
                 </div>
             </div>
@@ -61,14 +61,14 @@
                                     <div class="col-md-6 wow fadeInDown">
                                         <div class="clients-comments text-center">
                                             <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/client2.png" class="img-circle" alt="">
-                                                <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</h3>
+                                                <h3>En sıradan iş bile büyük başarılar getirme potansiyeline sahiptir.</h3>
                                                 <h4><span>Aytaç Salman</span></h4>
                                         </div>
                                     </div>
                                     <div class="col-md-6 wow fadeInDown">
                                         <div class="clients-comments text-center">
                                             <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/client5.png" class="img-circle" alt="">
-                                                <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</h3>
+                                                <h3>İmkansız denen şeye karşı sağlıklı bir saygısızlık geliştirin</h3>
                                                 <h4><span>Yusuf Osman Taşdelen</span></h4>
                                         </div>
                                     </div>
