@@ -44,10 +44,10 @@
                                                                         <div class="col-sm-9 col-xs-9">
                                                                             <div class="social">
                                                                                 <ul class="social-share">
-                                                                                    <li id="facebook"><a href="https://www.facebook.com/Ruyidem" style="background-color:#575555"><i class="fa fa-facebook "></i></a></li>
-                                                                                    <li id="twitter"><a href="https://www.twitter.com/Ruyidem" style="background-color:#575555"><i class="fa fa-twitter"></i></a></li>
-                                                                                    <li id="youtube"><a href="https://www.youtube.com/Ruyidem" style="background-color:#575555"><i class="fa fa-youtube-play"></i></a></li> 
-                                                                                    <li id="instagram"><a href="https://www.instagram.com/Ruyidem" style="background-color:#575555"><i class="fa fa-instagram "></i></a></li>
+                                                                                    <li id="facebook"><a target="_blank" href="https://www.facebook.com/Ruyidem-1007129222656496/?skip_nax_wizard=true" style="background-color:#575555"><i class="fa fa-facebook "></i></a></li>
+                                                                                    <li id="twitter"><a target="_blank" href="https://www.twitter.com/Ruyidemm" style="background-color:#575555"><i class="fa fa-twitter"></i></a></li>
+                                                                                    <li id="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCmve4qjX1DPpdUuuZC3LX4A" style="background-color:#575555"><i class="fa fa-youtube-play"></i></a></li> 
+                                                                                    <li id="instagram"><a target="_blank" href="https://www.instagram.com/Ruyidem" style="background-color:#575555"><i class="fa fa-instagram "></i></a></li>
                                                                                 </ul>
                                                                             </div>
                                                                         </div>

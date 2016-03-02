@@ -73,8 +73,7 @@
                                 <div class="recent-work-inner">
                                     <h3><a href="#">E-Ticaret Paketi</a></h3>
                                     <p>Kaliteli,hızlı ve ilgi çekici tasarımı ile e-ticaret sitesine sizde sahip olun</p></br>
-                                    <a class="preview" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> İNCELEYİN</a>
-                                </div> 
+                                    </div> 
                             </div>
                     </div>        
                 </div><!--/.portfolio-item-->
@@ -110,10 +109,9 @@
                         <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item23.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                    <a class="preview" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
+                                    <h3><a href="#">RuyiMap</a></h3>
+                                    <p>Şirketimiz tarafından gelişimi devam etmekte ve şu anki projelerimiz de başarılı şekilde kullanılmaktadır.RuyiMap ile ilgili kapsamlı bilgilendirmeyi yakında inceleyebilirsiniz.</p>
+                                   </div> 
                             </div>
                     </div>          
                 </div><!--/.portfolio-item-->
@@ -123,7 +121,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Yakında Hizmetinizde</a></h3></br></br>
-                                    <a class="preview" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> iNCELEYİN</a>
+                                    <a class="preview" target="_blank" href="http://www.stajevi.com" ><i class="fa fa-eye"></i> İNCELEYİN</a>
                                 </div> 
                             </div>
                     </div>          
@@ -133,10 +131,9 @@
                         <img class="img-responsive" src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/recent/item22.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                    <a class="preview" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
+                                    <h3><a href="#">BADO Framework</a></h3>
+                                    <p>Şirketimize ait hızlı,kaliteli ve optimizasyon gücü yüksek olan BadoFramework ile yazılım geliştirmek artık çok kolay.</p>
+                                    </div> 
                             </div>
                     </div>          
                 </div><!--/.portfolio-item-->
@@ -158,8 +155,7 @@
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Yakın da hizmetinizde</a></h3></br></br></br>
-                                    <a class="preview" href="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> İNCELEYİN</a>
-                                </div> 
+                                      </div> 
                             </div>
                     </div>         
                 </div><!--/.portfolio-item-->
