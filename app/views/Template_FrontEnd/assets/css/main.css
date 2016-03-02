@@ -416,12 +416,12 @@ input.search-form:hover {
 
 .ekip{
 	font-size:90px;
-	text-indent:274px;
+	text-indent:160px;
 	
 }
 .ekip1{
-	font-size:90px;
-	text-indent:80px;
+	font-size:60px;
+	text-indent:160px;
 	
 }
 .ekip2{
@@ -433,8 +433,10 @@ input.search-form:hover {
 	margin-left:15%;
 }
 .kod1{
+        
 	font-size:41px;
 }
+
 .hakRenk{
 	color:#605F5F;
 }

@@ -12,10 +12,10 @@
                         <div class="col-sm-6">
                             <div class="carousel-content"style="margin-top:-40px">
                                 <h1 class="animation animated-item-1 kod1" >Genç ve Dinamik Ekibimizle</h1>
-                                <h2 class="animation animated-item-2 ekip" >Burdayız</h2>
+                                <h2 class="animation animated-item-2 ekip" >Buradayız</h2>
                             </div>
                         </div>
-                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                        <div class="col-sm-6 animation animated-item-4">
                             <div class="slider-img">
                                 <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/slider/img5.png" class="img-responsive">
                             </div>
@@ -26,11 +26,11 @@
             <div class="item" style="background-image: url(<?php echo SITE_FRONT_ASSETSIMAGES; ?>/slider/bg2.png)">
                 <div class="container">
                     <div class="row slide-margin">
-                        <div class="col-sm-6 hidden-xs animation animated-item-4">
-                            <div class="slider-img">
+                        <div class="col-sm-6 animation animated-item-4">
+                            <div class="slider-img hidden-xs">
                                 <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/slider/img6.png" class="img-responsive">
                             </div>
-                        </div>
+                        </div> 
                         <div class="col-sm-6">
                             <div class="carousel-content" style="margin-top:-40px">
                                 <h1 class="animation animated-item-1 kod1" >Prestijli Projelerle</h1>
@@ -49,7 +49,7 @@
                                 <h2 class="animation animated-item-2 ekip2">Bize Güvenin</h2>
                             </div>
                         </div>
-                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                        <div class="col-sm-6 animation animated-item-4">
                             <div class="slider-img">
                                 <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/slider/img3.png" class="img-responsive" />
                             </div>
@@ -59,10 +59,10 @@
             </div><!--/.item-->
         </div><!--/.carousel-inner-->
     </div><!--/.carousel-->
-    <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+    <a class="prev " href="#main-slider" data-slide="prev">
         <i class="fa fa-chevron-left"></i>
     </a>
-    <a class="next hidden-xs" href="#main-slider" data-slide="next">
+    <a class="next " href="#main-slider" data-slide="next">
         <i class="fa fa-chevron-right"></i>
     </a>
 </section><!--/#main-slider-->
