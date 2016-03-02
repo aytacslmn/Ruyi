@@ -44,9 +44,9 @@
             </div>
             <div class="col-md-4 wow fadeInDown">
                 <div class="clients-comments text-center">
-                    <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/client4.png" class="img-circle" alt="">
+                    <img src="<?php echo SITE_FRONT_ASSETSIMAGES; ?>/client7.png" class="img-circle" alt="">
                         <h3>İşler asla zor değildir. Yeterki onları küçük parçalara bölebilelim.</h3>
-                        <h4><span>Savaş Çiftçi</span></h4>
+                        <h4><span>Savaş Çiftci</span></h4>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInDown">
