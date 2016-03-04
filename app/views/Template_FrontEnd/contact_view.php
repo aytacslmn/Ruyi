@@ -22,7 +22,7 @@
                                 <p>Aşık Veysel Bulvarı Erciyes  <br>
                                     Teknopark 5. Bina</p><br>
                                 Melikgazi Kayseri
-                                <p>Telefon:+90-5452004650<br>
+                                <p>Telefon:+90-545 200 46 50<br>
                                     Email Address: <a href="">info@ruyidem.com</a></p>
                             </address>
                         </li>
