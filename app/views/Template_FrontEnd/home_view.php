@@ -56,7 +56,7 @@
                 <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="feature-wrap">
                         <i class="fa fa-desktop "></i></br></br>
-                        <h2 style="margin-top:2px; color:#636363">Sağlam Dinamik Sayfalar</h2>
+                        <h2 style="margin-top:2px; color:#636363">Dinamik Sayfalar</h2>
                     </div>
                 </div><!--/.col-md-4-->
                 <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">

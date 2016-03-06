@@ -17,7 +17,7 @@
             <p class="lead">Kayseri de 2015 yılında kurulduk.Kısa sürede büyük projelerde atılım gerçekleştirmiş bir firma 
                 olmayı başardık.Genç ve diri bir ekip olarak tek çatı altında toplanma'nın mutluluğunu yaşıyoruz.
                 Bize ait çözüm ve farkındalığımız ile henüz 1 yıl içerisinde
-                sektör de kendimizi ispatlayıp ve yer edinmeyi başardık.
+                sektör de kendimizi ispatladık ve yer edinmeyi başardık.
                 Projeler de hızla geliştirilen algoritmalar sayesinde optimizasyon en üst seviyede sağlanmaktadır.
                 Ayrıca günümüz teknolijilerini baz alarak üst düzey çözümlerle karşınızdayız.
                 Yazılım da şirketimizin geliştirdiği Bado Framework ile çok daha sağlıklı,
