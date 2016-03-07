@@ -1,10 +1,10 @@
 <section id="main-slider" class="no-margin">
-    <div class="carousel slide">
+    <div class="carousel slide" >
         <ol class="carousel-indicators">
             <li data-target="#main-slider" data-slide-to="0" class="active"></li>
             <li data-target="#main-slider" data-slide-to="1"></li>
         </ol>
-        <div class="carousel-inner">
+        <div class="carousel-inner" data-ride="carousel">
             <div class="item active" style="background-image: url(<?php echo SITE_FRONT_ASSETSIMAGES; ?>/slider/bg6.png)">
                 <div class="container">
                     <div class="row slide-margin">
